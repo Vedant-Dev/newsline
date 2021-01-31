@@ -1,6 +1,6 @@
-# flutter_news
+# NewsLine
 
-A new Flutter project.
+A news app made with flutter and newsapi.org
 
 ## Getting Started
 
